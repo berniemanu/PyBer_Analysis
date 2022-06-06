@@ -36,5 +36,5 @@ The image below shows % of total drivers across the three different city types U
 ## Summary: 
 Based on this readable and actionable data analysis and visualization, I have the following recommendations for PyBer.
 1) Rural region is an underserved region with few driver counts and higher fare$/ride. Pyber could benefit by expanding further into this high-fare region.
-2) Pyber can entire customers with coupons and discounts during the dips as seen in the weekly chart, to reduce the effect of seasonality on their revenues.
+2) Pyber can entice customers with coupons and discounts during the dips as seen in the weekly chart, to reduce the effect of seasonality on their revenues.
 3) Pyber can incentivize suburban and rural drivers more than urban drivers to increase business in those regions.
